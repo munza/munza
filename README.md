@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋  Hi, I'm Tawsif Aqib
 
-<!--
-**munza/munza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a Full-stack software engineer from [🇧🇩 Bangladesh](https://en.wikipedia.org/wiki/Bangladesh), living in [Dhaka](https://goo.gl/maps/GrDcxmeBfVy9PZhB9).** 
 
-Here are some ideas to get you started:
+#### I am also —
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Product engineer
+- 📕 Technical writer
+- 🛠 Software architect
+
+#### Currently —
+
+- 🏢 Working remotely at a **Fintech Company**
+- ⚙️ Using `PHP`, `JS`, `HTML`, `CSS`, `Docker`, `Git` & `VSCode`
+- 🌏 Active within the **PHP** and **Elixir** community
+- 📖 Learning `Elixir`, `Go` and `DevOps`
+
+📫 Reach me — [twitter.com/tawsif_aqib](https://twitter.com/tawsif_aqib)
