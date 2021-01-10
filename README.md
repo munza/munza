@@ -1,18 +1,11 @@
-### 👋  Hi, I'm Tawsif Aqib
+# Hi, I'm Tawsif Aqib.<br>I design, code, and ship things on the internet.
 
-**I am a Full-stack software engineer from [🇧🇩 Bangladesh](https://en.wikipedia.org/wiki/Bangladesh), living in [Dhaka](https://goo.gl/maps/GrDcxmeBfVy9PZhB9).** 
+**I am a [product engineer](https://hackernoon.com/who-is-product-engineer-cl4l3yiu) . That means I put focus and effort into building out the capability of delivering products by combining business analysis and technology to meet customers' expectations.**
 
-#### I am also —
+- 💻 Working as Senior Software Engineer @ [Eskimi (ActiveX)](https://business.eskimi.com/)
+- 📍 Living in [Dhaka](https://goo.gl/maps/GrDcxmeBfVy9PZhB9), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).
+- 🛠 Primary stack — PHP, Go, React & PostgreSQL.
+- 🎯 Interested in Elixir, startups and data driven products.
+- 👍 Available in [Linkedin](https://www.linkedin.com/in/tawsifaqib), [Medium](https://medium.com/@munza), and [Github](https://github.com/munza).
 
-- 💡 Product engineer
-- 📕 Technical writer
-- 🛠 Software architect
-
-#### Currently —
-
-- 🏢 Working remotely at a **Fintech Company**
-- ⚙️ Using `PHP`, `JS`, `HTML`, `CSS`, `Docker`, `Git` & `VSCode`
-- 🌏 Active within the **PHP** and **Elixir** community
-- 📖 Learning `Elixir`, `Go` and `DevOps`
-
-📫 Reach me — [twitter.com/tawsif_aqib](https://twitter.com/tawsif_aqib)
+> ✓ Currently available for remote opportunities.
