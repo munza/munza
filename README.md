@@ -1,5 +1,5 @@
-<img width="1039" alt="Screenshot 2023-03-07 at 21 58 05" src="https://user-images.githubusercontent.com/4727868/223551024-c4d7e9f6-7664-4de3-a84a-d314d694a394.png">
+<img width="1024" alt="Tawsif Aqib" src="https://github.com/munza/munza/assets/4727868/8a2cba07-8f98-4fed-b79c-2ff8795358eb">
 
-
-
-[`Website`](https://munza.me) [`Linkedin`](https://www.linkedin.com/in/tawsifaqib/) [`Medium`](https://medium.com/@munza)
+[Website ↗](https://munza.me)
+[Linkedin ↗](https://www.linkedin.com/in/tawsifaqib/)
+[Medium ↗](https://medium.com/@munza)
