@@ -1,4 +1,4 @@
-<img width="1024" alt="Tawsif Aqib" src="https://github.com/munza/munza/assets/4727868/8a2cba07-8f98-4fed-b79c-2ff8795358eb">
+<img width="865" alt="Screenshot 2025-01-30 at 01 46 12" src="https://github.com/user-attachments/assets/19e1bdc2-c04d-4be6-87da-bbd271d89f77" />
 
 [Website ↗](https://munza.me)
 [Linkedin ↗](https://www.linkedin.com/in/tawsifaqib/)
