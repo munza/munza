@@ -1,4 +1,4 @@
-<img width="865" alt="Screenshot 2025-01-30 at 01 46 12" src="https://github.com/user-attachments/assets/19e1bdc2-c04d-4be6-87da-bbd271d89f77" />
+<img width="761" alt="Screenshot 2025-05-29 at 21 25 18" src="https://github.com/user-attachments/assets/de01f8c6-3f6f-4655-9894-a9aa12a57560" />
 
 [Website ↗](https://munza.me)
 [Linkedin ↗](https://www.linkedin.com/in/tawsifaqib/)
