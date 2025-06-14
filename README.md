@@ -1,5 +1,1 @@
-<img width="100%" alt="Screenshot 2025-05-29 at 21 25 18" src="https://github.com/user-attachments/assets/de01f8c6-3f6f-4655-9894-a9aa12a57560" />
-
-[Website ↗](https://munza.me)
-[Linkedin ↗](https://www.linkedin.com/in/tawsifaqib/)
-[Medium ↗](https://medium.com/@munza)
+<img alt="Screenshot 2025-06-14 at 18 55 19" src="https://github.com/user-attachments/assets/e65f34d2-7592-4558-858d-7c32b1669ecc" />
